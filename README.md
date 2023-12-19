@@ -6,6 +6,8 @@ We are a team that develops projects based on physical models. In our project we
 
 * 🌍  I'm based in Dolgoprudniy
 
+![Physical model in reality](https://github.com/initialdream4rever/Computer-science-project/blob/main/first%20picture.PNG)
+
 ### Skills
 
 
