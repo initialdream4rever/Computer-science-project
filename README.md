@@ -9,6 +9,7 @@ We study at the Department of General and Applied Physics. We are a team that de
 
 ![DGAP STRENGTH](https://github.com/initialdream4rever/Computer-science-project/blob/main/DGAP%20STRENGTH.jpg)
 
+The video and gif below show a physical experiment that we are researching.
 
 https://github.com/initialdream4rever/Computer-science-project/assets/152491202/48e301f1-f8de-4b67-bf94-30ef6ce91bda
 
