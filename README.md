@@ -2,7 +2,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Our name is BEST TEAM
 =================================================================================================================================
 
-We are a team that develops projects based on physical models. In our project we will use libraries such as: sympy, mathpotlib.pyplot, scipy, numpy. The main goal is to obtain theoretical dependencies by considering physical experience. Thanks to the formulas, we will be able to build graphs of various dependencies. Our project can help people who want to obtain any theoretical dependencies from a physical model, because thanks to our libraries and formulas, you can easily create your own code with which to obtain all this. That is, our project, one might say, serves as a basis for obtaining theoretical dependencies.
+
+We study at the Department of General and Applied Physics. We are a team that develops projects based on physical models. In our project we will use libraries such as: sympy, mathpotlib.pyplot, scipy, numpy. The main goal is to obtain theoretical dependencies by considering physical experience. Thanks to the formulas, we will be able to build graphs of various dependencies. Our project can help people who want to obtain any theoretical dependencies from a physical model, because thanks to our libraries and formulas, you can easily create your own code with which to obtain all this. That is, our project, one might say, serves as a basis for obtaining theoretical dependencies.
 
 
 
