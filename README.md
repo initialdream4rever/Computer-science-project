@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BEST TEAM
 =================================================================================================================================
 
-We are a team that develops projects based on physical models
+We are a team that develops projects based on physical models. In our project we will use libraries such as: sympy, mathpotlib.pyplot, scipy, numpy. The main goal is to obtain theoretical dependencies by considering physical experience. Thanks to the formulas, we will be able to build graphs of various dependencies.
 
 * 🌍  I'm based in Dolgoprudniy
 
