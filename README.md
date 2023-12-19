@@ -7,7 +7,11 @@ We are a team that develops projects based on physical models. In our project we
 
 
 
-https://github.com/initialdream4rever/Computer-science-project/assets/152491202/3a3604ca-9f30-4ff4-8c37-6f68f6f67ed2
+
+
+https://github.com/initialdream4rever/Computer-science-project/assets/152491202/48e301f1-f8de-4b67-bf94-30ef6ce91bda
+
+
 
 
 ![project vid](https://github.com/initialdream4rever/Computer-science-project/assets/152491202/666c5a86-bcc6-41b6-8cd8-ec5d4c072807)
