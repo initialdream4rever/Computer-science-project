@@ -6,6 +6,7 @@ Hello, everyone ![](https://user-images.githubusercontent.com/18350557/176309783
 We study at the Department of General and Applied Physics. We are a team that develops projects based on physical models. In our project we will use libraries such as: sympy, mathpotlib.pyplot, scipy, numpy. The main goal is to obtain theoretical dependencies by considering physical experience. Thanks to the formulas, we will be able to build graphs of various dependencies. Our project can help people who want to obtain any theoretical dependencies from a physical model, because thanks to our libraries and formulas, you can easily create your own code with which to obtain all this. That is, our project, one might say, serves as a basis for obtaining theoretical dependencies.
 
 
+![DGAP STRENGTH](https://github.com/initialdream4rever/Computer-science-project/assets/152491202/1ed57f73-2ac8-4901-a1c1-cb2e39a104a0)
 
 ![DGAP STRENGTH](https://github.com/initialdream4rever/Computer-science-project/blob/main/DGAP%20STRENGTH.jpg)
 
