@@ -115,10 +115,10 @@ class Ui_MainWindow(object):
         self.label_9.setText(_translate("MainWindow", "u, м/c"))
         self.label_10.setText(_translate("MainWindow", "w, м/с"))
         self.label_11.setText(_translate("MainWindow", "fi0, рад"))
-        self.push1.setText(_translate("MainWindow", "1"))
-        self.push2.setText(_translate("MainWindow", "2"))
-        self.push3.setText(_translate("MainWindow", "3"))
-        self.push4.setText(_translate("MainWindow", "4"))
+        self.push1.setText(_translate("MainWindow", "a(phi)"))
+        self.push2.setText(_translate("MainWindow", "d(v)"))
+        self.push3.setText(_translate("MainWindow", "phase(m,v)"))
+        self.push4.setText(_translate("MainWindow", "phase(r,v)"))
         self.label.setText(_translate("MainWindow", "Введите параметры:"))
 
     def add_functions(self):
@@ -188,6 +188,7 @@ class Ui_MainWindow(object):
         plt.ylabel('y-component of acceleration of the center of mass, m/s^2')
         plt.xlabel('angle of rotation, pi*rad')
         plt.show()
+        plt.savefig('a(phi).png')
 
     def second(self):
         M1 = float(self.M.text())
@@ -278,6 +279,7 @@ class Ui_MainWindow(object):
         plt.xlim(2.5, 5)
         plt.plot(arrv, [i * 0.075 * 100 for i in arrfic])
         plt.show()
+        plt.savefig('d(v).png')
         # data1 = pd.read_csv('d(v) 600 third hole v2.txt', sep='\t')
         # plt.scatter(data1['v'], data1['d'])
         # plt.errorbar(data1['v'], data1['d'], xerr=0.1, yerr=2, ls='none')
@@ -349,6 +351,7 @@ class Ui_MainWindow(object):
         plt.xlabel('initial velocity, m/s')
         plt.plot([i for i in arrv if i != 0], [1000 * i for i in arrm if i != 0])
         plt.show()
+        plt.savefig('phase(m,v).png')
 
     def fourth(self):
         M1 = float(self.M.text())
@@ -422,6 +425,7 @@ class Ui_MainWindow(object):
         plt.xlabel('initial velocity, m/s')
         plt.plot([i for i in arrv if i != 0], [i for i in arrr if i != 0])
         plt.show()
+        plt.savefig('phase(r,v).png')
 
 
 if __name__ == "__main__":
